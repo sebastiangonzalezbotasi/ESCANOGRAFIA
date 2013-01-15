@@ -7,7 +7,6 @@
 
 
 ### :: Library
-controlP5
 
 ##Contributors 
 **Sebastian G. Botasi**, born in La Plata (Argentina) in 1989.
